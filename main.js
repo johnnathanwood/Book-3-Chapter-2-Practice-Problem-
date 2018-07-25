@@ -82,7 +82,8 @@ const advisor = Object.create(null, {
 
 });
    
-advisor.sell("FDE", 231,4563728)   
+advisor.sell("FDE", 231,4563728);
+console.log(advisor);   
 
 
 // fixed problem with worth
